@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.anchete-add-area div{
+	margin: 1%;
+}
+
+.anchete {
+    margin: 2% 0;
+    text-align: center;
+}
+
+.anchete .anchete_title {
+    font-size: 0.9rem;
+    color: #4c4c4c !important;
+    margin: 1% 0;
+    font-weight: bold;
+}
+
+.anchete .anchete_btn,  .anchete .progress, .anchete .anchete_btn_done {
+    color: #5498ff !important;
+    border: 1px solid #5498ff;
+    margin: 0.25rem 0.125rem;
+	cursor: pointer;
+	/* display: inline-block; */
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    /* background-color: #5e9eff;; */
+    padding: 0.275rem 0.55rem;
+    font-size: 0.9rem;
+    border-radius: 0.25rem;
+    display:inline-block;
+}
+.anchete_btn:hover {
+    color: #ffffff !important;
+    background-color: #c4dcff;
+}
+
+
